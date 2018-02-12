@@ -1,2 +1,3 @@
 # demo_git
-une demo de git
+
+Une demo de git qui se passe pas bien du tout, je ne comprens pas grand chose!!!
